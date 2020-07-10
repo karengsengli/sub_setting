@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PackageSync",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
